@@ -1,0 +1,36 @@
+.signup-form {
+  font-size: 25px;
+  width: 50% !important;
+  padding: 50px 0 !important;
+  background-color: #23f0c7;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.signup-div {
+  background-color: white;
+  padding-bottom: 100px;
+  padding-top: 25px;
+  color: white;
+  font-family: "Lilita One";
+  min-height: 100vh;
+}
+.signup-heading {
+  font-size: 80px;
+  text-align: center;
+  color: #7d7abc;
+}
+.error-span {
+  background-color: red;
+  color: white;
+}
+.row {
+  padding: 20px !important;
+}
+button {
+  /* width: 30%; */
+  background-color: #ef767a;
+}
+.button-div {
+  text-align: center;
+  padding: 20px 0;
+}

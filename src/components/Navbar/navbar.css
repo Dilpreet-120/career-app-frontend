@@ -1,0 +1,27 @@
+.navbar-nav {
+  font-size: 50%;
+  height: 100%;
+}
+.navbar {
+  padding: 0;
+  background-color: #23f0c7;
+}
+
+.nav-item a {
+  height: auto;
+  padding-right: 12px;
+  padding: 6px;
+  text-decoration: none;
+  color: white;
+}
+.nav-item {
+  padding: 6px;
+  font-family: Inconsolata;
+}
+.nav-buttons {
+  padding: 0 10px;
+}
+.navbar-container {
+  margin-left: 80px !important;
+  font-family: Inconsolata;
+}

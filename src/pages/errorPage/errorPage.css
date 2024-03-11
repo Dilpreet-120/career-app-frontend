@@ -1,0 +1,9 @@
+.error404-div {
+  text-align: center;
+  color: red;
+  font-family: "Lilita One";
+  font-size: 36px;
+
+  padding: 100px;
+  height: 100%;
+}
